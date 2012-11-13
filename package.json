@@ -1,0 +1,13 @@
+{
+  "author": "Sai Wong",
+  "name": "backbone-fixtures",
+  "description": "Plugin to Backbone.js to allow for model fixtures",
+  "version": "0.1.2",
+  "homepage": "http://github.com/saiwong/backbone-fixtures",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/saiwong/backbone-fixtures"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
