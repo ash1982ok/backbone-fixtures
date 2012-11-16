@@ -8,7 +8,7 @@
  * Plugin to Backbone.js to allow for model fixtures.
  *
  * @version 0.1.2
- * @url http://github.com/saiwong/backbone-fixtures
+ * @url http://github.com/huffingtonpost/backbone-fixtures
  */
 ;(function(B, $){
 	if ( !B || B.syncFixtures === true ) return;

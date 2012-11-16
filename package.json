@@ -3,10 +3,10 @@
   "name": "backbone-fixtures",
   "description": "Plugin to Backbone.js to allow for model fixtures",
   "version": "0.1.2",
-  "homepage": "http://github.com/saiwong/backbone-fixtures",
+  "homepage": "http://github.com/huffingtonpost/backbone-fixtures",
   "repository": {
     "type": "git",
-    "url": "http://github.com/saiwong/backbone-fixtures"
+    "url": "http://github.com/huffingtonpost/backbone-fixtures"
   },
   "dependencies": {},
   "devDependencies": {}
