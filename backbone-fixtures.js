@@ -1,10 +1,8 @@
 /**
  * backbone-fixtures
  *
- * (c) 2012 Sai Wong, Huffington Post
- * backbone-fixtures may be freely distributed under the MIT license.
- * http://www.opensource.org/licenses/mit-license.php
- *
+ * Copyright (c) 2012, The Huffington Post
+ * 
  * Plugin to Backbone.js to allow for model fixtures.
  *
  * @version 0.1.2
