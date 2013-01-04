@@ -59,5 +59,5 @@ Backbone.fixtures = true
 
 ## Support
 
-To suggest a feature, report a bug, or general discussion: http://github.com/huffingtonpost/backbone-fixures/issues/
+To suggest a feature, report a bug, or general discussion: https://github.com/huffingtonpost/backbone-fixures/issues/
 
