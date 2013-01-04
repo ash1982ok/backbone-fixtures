@@ -57,4 +57,7 @@ Backbone.fixtures = true
 
 **Model.prototype.fixturesRoot** _String_ Root path to load model fixture from. Fixture path will be prepended with this path. Setting this overrides the global `Backbone.fixturesRoot` value. Default empty string.
 
+## Support
+
+To suggest a feature, report a bug, or general discussion: http://github.com/huffingtonpost/backbone-fixures/issues/
 
